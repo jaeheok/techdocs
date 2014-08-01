@@ -8,7 +8,7 @@ mysql> show processlist;
 Sorting result | select * from final order by rand() limit 90 |
 | 1102 | root | localhost | endofeva | Query | 404 |
 Sorting result | select * from final order by rand() limit 90 |
-생략..
+생략.
 
 위와 같은 프로세스만 수십개 보이고 있습니다.
 
